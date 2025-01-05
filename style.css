@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(185, 130, 19);
+    font-family: sans-serif;
+}
+ul,
+li {
+    color:rgb(0, 0, 0); 
+}
+
+img {
+    height: 300px;
+    width: auto;
+    /* text-align: center; */
+}
+
+/* h1 {
+    background-color: beige;
+} */
