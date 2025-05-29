@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(185, 130, 19);
+    background-color: rgb(169, 192, 241);
     font-family: sans-serif;
 }
 ul,
@@ -10,9 +10,18 @@ li {
 img {
     height: 300px;
     width: auto;
-    /* text-align: center; */
+    margin: 0 auto;
+    display:block;
 }
 
 /* h1 {
     background-color: beige;
 } */
+
+.title {
+    text-align: center;
+    background-color: rgb(131, 167, 245);
+    padding: 12px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+}
